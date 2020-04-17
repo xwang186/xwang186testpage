@@ -5,8 +5,8 @@ permalink: "/:title/"
 layout_style: overflow
 palette: orange
 header:
-  title: Stackbit Fresh
-  tagline: Header Tagline
+  title: Xiaohan Wang's Profile
+  tagline: Software Engineer
   profile_img: images/avatar.png
   bg: dark
   has_nav: true
