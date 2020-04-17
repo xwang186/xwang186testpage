@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: admin
+admin_path: xwang186
 webhook_url: https://api.stackbit.com/project/5e994d3a214142001b804e09/webhook/forestry
 sections:
 - type: document
