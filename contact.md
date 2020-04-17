@@ -1,7 +1,7 @@
 ---
-title: Contacts
+title: Contact me
 layout: contact
-subtitle: ''
+subtitle: Leave message here or directly email me on wangxh95@outlook.com
 img_path: ''
 menu:
   main:
