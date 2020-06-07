@@ -2,19 +2,27 @@
 title: About Me
 subtitle: This is a short page about me and my work.
 img_path: images/about.jpg
-menus:
+layout: page
+menu:
   main:
     title: About
     weight: 4
-layout: page
+
 ---
+My name is **Xiaohan Wang.** I am a software engineer. My work area: lower-level system, machine learning, heterogeneous computing, computer vision.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Programming Language: C/C++, python, JAVA 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+_Education:_
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Bachelor of **Computer Science,** Shandong Univerisity, China, 2013 - 2017
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Master of **Computer Science**, Syracuse Univerisity, United States, 2018 - 2019
 
-*Thank You for reading!*
+_Work Experience:_
+
+Machine Learning Engineer, OPPO US, Bellevue WA US, Dec 2019 - current
+
+Software Engineer Intern, Aibee Inc, Bellevue WA US, Sep 2019 - Dec, 2019 
+
+Software Engineer Intern, Novumind Inc, Beijing CN, May 2018 - Aug, 2018
