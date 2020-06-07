@@ -1,5 +1,5 @@
 ---
-title: Xiaohan Main Page
+title: Posts
 layout: blog
 menu:
   main:
